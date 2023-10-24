@@ -1,7 +1,6 @@
 # html-interview-questions
-Html interview questions with answers
+HTML interview questions with answers
 
-Sure, I'd be happy to provide answers to your HTML-related questions:
 
 ## S.No 1: What is `<!Doctype html>` in HTML5?
 **Ans:** `<!DOCTYPE html>` is an HTML5 declaration that is used at the beginning of an HTML document to specify the document type and version. It tells the browser that the document is written in HTML5. This declaration is necessary for the browser to interpret the page correctly.
