@@ -85,4 +85,3 @@ In this `<a>` (anchor) tag, `href` is an attribute, and `"https://www.example.co
 ## S.No 11: What is the difference between HTML and HTML5?
 **Ans:** I've already answered this question in point 4.
 
-I hope these answers help clarify your HTML-related questions. If you have any more questions or need further information, feel free to ask.
